@@ -15,7 +15,7 @@
 - 勝利與失敗條件確認  
 - UI 響應與互動測試（AltTester）
 
-🔗 **測試代碼**：[點我前往]([https://github.com/BrianGodd/Minesweeper-AltTester/blob/main/Assets/Tests/Minesweeper_Tests.cs](https://github.com/BrianGodd/Minesweeper-AltTester/tree/main/Assets/AltTester/Editor/Tests))
+🔗 **測試代碼**：[點我前往](https://github.com/BrianGodd/Minesweeper-AltTester/tree/main/Assets/AltTester/Editor/Tests)
 
 ---
 
@@ -26,15 +26,14 @@
 - 自動展開空白區域  
 - 勝利與失敗提示音效與介面
 
-🔗 **遊戲主控代碼**：[點我前往]([https://github.com/BrianGodd/Minesweeper-AltTester/blob/main/Assets/Game/BoardManager.cs](https://github.com/BrianGodd/Minesweeper-AltTester/tree/main/Assets/Scripts/Minesweeper))
+🔗 **遊戲主控代碼**：[點我前往](https://github.com/BrianGodd/Minesweeper-AltTester/tree/main/Assets/Scripts/Minesweeper)
 
 ---
 
 ## 🔗 Demo 連結
 
-▶️ [點此觀看 Demo影片](https://youtu.be/47XGWXJwI7s)  
-
-🕹️ [點此體驗 WebGL Demo](https://你的demo網址)  
+▶️ [點此觀看 Demo影片](https://youtu.be/47XGWXJwI7s) 
+🕹️ [點此觀看 WebGL Demo](https://youtu.be/47XGWXJwI7s) 
 （建議使用桌面版 Chrome 或 Edge 瀏覽器）
 ---
 
