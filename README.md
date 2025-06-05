@@ -58,3 +58,14 @@ git clone https://github.com/BrianGodd/Minesweeper-AltTester.git
 AltTester Editor > Run in Editor > Run selected Tests
 
 # 或直接 Play 遊戲場景
+
+---
+
+## 📚 References
+
+1. [Unity 官方下載頁](https://unity.com/cn/download)  
+2. [AltTester 官方文件（最新版本）](https://alttester.com/docs/sdk/latest/pages/overview.html)  
+3. [踩地雷遊戲介紹（維基百科）](https://en.wikipedia.org/wiki/Minesweeper_(video_game))  
+4. [Minesweeper 線上版](https://minesweeper.online/)  
+5. [Unity 2022.3.20 LTS 更新內容](https://unity.com/releases/editor/whats-new/2022.3.20)  
+6. [Unity Cloud Services](https://unity.com/products/unity-cloud)
