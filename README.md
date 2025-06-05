@@ -34,9 +34,8 @@
 
 ▶️ [點此觀看 Demo影片](https://youtu.be/47XGWXJwI7s) 
 
-🕹️ [點此觀看 WebGL Demo](https://youtu.be/47XGWXJwI7s) 
+🕹️ [點此觀看 WebGL Demo（建議使用桌面版 Chrome 或 Edge 瀏覽器）](https://youtu.be/47XGWXJwI7s) 
 
-（建議使用桌面版 Chrome 或 Edge 瀏覽器）
 ---
 
 ## ⚙️ 技術棧
