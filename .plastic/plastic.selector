@@ -1,4 +1,0 @@
-repository "TDD-Minesweeper/TDD-Minesweeper@33262902578108@cloud"
-  path "/"
-    br "/main"
-    co "/main"
