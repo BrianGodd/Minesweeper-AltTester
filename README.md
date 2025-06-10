@@ -16,6 +16,7 @@
 - UI 響應與互動測試（AltTester）
 
 🔗 **測試代碼**：[點我前往](https://github.com/BrianGodd/Minesweeper-AltTester/tree/main/Assets/AltTester/Editor/Tests)
+🎞️ **測試過程記錄**：[點我前往](https://github.com/BrianGodd/Minesweeper-AltTester/blob/main/TestReport_system_UI_part.pdf)
 
 ---
 
